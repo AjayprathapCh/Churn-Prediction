@@ -1,4 +1,4 @@
-# Churn-Prediction
+## Customer Churn Prediction at a Telecom Company
 
 **Case Summary:**
 
